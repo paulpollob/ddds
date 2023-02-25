@@ -1,7 +1,12 @@
 .ppp
 
 
+
+
+error.log
+
 .gradle
-/build/
 
-
+.gradle
+**/build/
+!src/**/build/
