@@ -1,4 +1,11 @@
 Hare Krishna from test1.txt
 2nd version
 
+<<<<<<< HEAD
 Now pollob working from local at 1:25 am 26 febru
+=======
+Hare Krishna today 26 february 1:21am
+
+
+when pollob is working with the file 
+>>>>>>> 88bea7a9a897b2fbe1d5cfefee342d6b76322f6e
