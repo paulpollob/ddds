@@ -4,7 +4,7 @@ Hare Krishna from test2
 line 1 
 line 2
 
-line 3
+line 3 this line is removed from github
 
 line 4
 by pollob at 1:37 from github
